@@ -1,0 +1,6 @@
+Instrukcja uruchomienia testu:
+Otwórz Eclipse IDE 
+Utwórz nowy Workspace
+Wybierz window->Perspective->Open Perspective->Others->GIT
+Z menu wybierz "Clonea GIT repository"
+W polu URI wprowadz: 
