@@ -1,6 +1,15 @@
-Instrukcja uruchomienia testu:
+Instrukcja uruchomienia testu "od zera":
 Otwórz Eclipse IDE 
 Utwórz nowy Workspace
 Wybierz window->Perspective->Open Perspective->Others->GIT
 Z menu wybierz "Clonea GIT repository"
-W polu URI wprowadz: 
+W polu URI wprowadz: https://github.com/SlawomirBrodowski/Concise.git
+W polu login wprowadź: slawomir.brodowski@yahoo.co.uk 
+W polu hasło wprowadź hasło przesłane na mail
+Przełącz perspektywę na Java EE
+Wybierz Window->Show View->Other->GIT->Git repositories
+Po pokazaniu się repozytorium kliknij na nim prawym przyciskiem myszy i wybierz "Fetch from Upstrem"
+W repozytorium GIT rozwiń folder Working Tree wyszukaj ConciseTest , kliknij prawym przyciskiem myszy i wybierz importuj projekt
+Po pojawieniu się projektu na Workspace kliknij na niego prawym przyciskiem myszy wybierz Run as -> JUnit test 
+Test odpali się w oknie przeglądarki
+Po zakończeniu możesz podglądnąć wyniki testu w zakłądce JUnit 
