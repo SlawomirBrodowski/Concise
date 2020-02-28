@@ -12,4 +12,4 @@ Po pokazaniu się repozytorium kliknij na nim prawym przyciskiem myszy i wybierz
 W repozytorium GIT rozwiń folder Working Tree wyszukaj ConciseTest , kliknij prawym przyciskiem myszy i wybierz importuj projekt
 Po pojawieniu się projektu na Workspace kliknij na niego prawym przyciskiem myszy wybierz Run as -> JUnit test 
 Test odpali się w oknie przeglądarki
-Po zakończeniu możesz podglądnąć wyniki testu w zakłądce JUnit 
+Po zakończeniu możesz podglądnąć wyniki testu w zakładce JUnit 
